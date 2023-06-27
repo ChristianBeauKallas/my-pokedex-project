@@ -1,0 +1,17 @@
+.pokemon-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    width: 200px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #FFDE01;
+}
+
+.pokemon-name {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.pokemon-num, .pokemon-type, .pokemon-weaknesses {
+    font-size: 16px;
+}

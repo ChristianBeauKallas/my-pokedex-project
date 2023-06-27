@@ -1,0 +1,12 @@
+.SearchBox {
+    margin-bottom: 20px;
+    width: 50%;
+}
+
+.SearchBox input {
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
